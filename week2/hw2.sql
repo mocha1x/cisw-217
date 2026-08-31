@@ -27,6 +27,8 @@ VALUES ('Call of Duty: Modern Warfare 4',0,'FPS''2026-10-23')
 -- SQL state: 42601
 -- Character: 269
 
+-- The error occurred because I mismatched the genre and metacritic_score column values when inserting Modern Warfare 4.
+
 -- Part B
 -- I didn't know that you could order by column names. For example in the text it says you can run the command ORDER BY salary DESC; to descend from highest to lowest.
 -- Using operators to sort data seems like it can get confusing and become less intuitive, would it not be easier to just use the GUI to do that?
