@@ -86,6 +86,7 @@ INNER JOIN sales s
     ON g.id = s.game_id
 GROUP BY g.id, g.title
 ORDER BY total_sales DESC;
+-- Street Fighter 6 and Mario Kart 8 Deluxe, both with 8 sales
 
 -- Part 5
 SELECT
